@@ -1,0 +1,25 @@
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\учёт бюджета.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\учёт бюджета.deps.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\учёт бюджета.runtimeconfig.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\учёт бюджета.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\учёт бюджета.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета_MarkupCompile.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета_MarkupCompile.lref
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.g.resources
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.AssemblyInfo.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\refint\учёт бюджета.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.genruntimeconfig.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\ref\учёт бюджета.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\AddRecordTypeWindow.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\AddRecordTypeWindow.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\учёт бюджета\учёт бюджета\obj\Debug\net6.0-windows\учёт бюджета.csproj.CopyComplete
